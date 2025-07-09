@@ -38,3 +38,6 @@ Thumbs.db
 
 # dotenv
 .env
+
+#staticfiles
+/staticfiles/
